@@ -86,3 +86,7 @@ Assembly-CSharp.csproj
 Assembly-CSharp.csproj
 
 .vscode
+
+unity_oculus/Assets/Oculus/
+unity_oculus/Assets/Oculus/*
+unity_oculus/Assets/Oculus/LipSync/*

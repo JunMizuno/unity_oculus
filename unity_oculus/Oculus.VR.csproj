@@ -107,7 +107,6 @@
     <Compile Include="Assets/Oculus/VR/Scripts/OVRLayerAttribute.cs" />
     <Compile Include="Assets/Oculus/VR/Scripts/Util/OVRSystemPerfMetrics.cs" />
     <Compile Include="Assets/Oculus/VR/Scripts/Util/OVRPhysicsRaycaster.cs" />
-    <Compile Include="Assets/Oculus/VR/Scripts/OVROverlayMeshGenerator.cs" />
     <Compile Include="Assets/Oculus/VR/Scripts/Util/OVRGridCube.cs" />
     <Compile Include="Assets/Oculus/VR/Scripts/Util/OVRPointerEventData.cs" />
     <Compile Include="Assets/Oculus/VR/Scripts/Util/OVRNetwork.cs" />
@@ -122,15 +121,15 @@
     <Compile Include="Assets/Oculus/VR/Scripts/OVRPlugin.cs" />
     <Compile Include="Assets/Oculus/VR/ThirdParty/openvr_api.cs" />
     <Compile Include="Assets/Oculus/VR/Scripts/Util/OVRSkeleton.cs" />
+    <Compile Include="Assets/Oculus/VR/Scripts/OVROverlayMeshGenerator.cs" />
   </ItemGroup>
   <ItemGroup>
+     <None Include="Assets/Oculus/VR/Plugins/1.55.0/Win/OVRPlugin.dll" />
      <None Include="Assets/Oculus/VR/Resources/Texture2D Blit.shader" />
-     <None Include="Assets/Oculus/VR/Plugins/1.52.1/Win64/OVRPlugin.dll" />
      <None Include="Assets/Oculus/VR/Shaders/Unlit Crosshair.shader" />
      <None Include="Assets/Oculus/VR/Resources/Cubemap Blit.shader" />
      <None Include="Assets/Oculus/VR/Resources/Underlay Transparent Occluder.shader" />
      <None Include="Assets/Oculus/VR/Oculus.VR.asmdef" />
-     <None Include="Assets/Oculus/VR/Plugins/1.52.1/Win/OVRPlugin.dll" />
      <None Include="Assets/Oculus/VR/Resources/OVRMRUnlitTransparent.shader" />
      <None Include="Assets/Oculus/VR/Resources/OVRMRChromaKey.cginc" />
      <None Include="Assets/Oculus/VR/Resources/OVRMRCameraFrameLit.shader" />
@@ -140,6 +139,7 @@
      <None Include="Assets/Oculus/VR/Resources/Underlay Impostor.shader" />
      <None Include="Assets/Oculus/VR/Resources/OVRMRCameraFrame.shader" />
      <None Include="Assets/Oculus/VR/Plugins/placeholder.txt" />
+     <None Include="Assets/Oculus/VR/Plugins/1.55.0/Win64/OVRPlugin.dll" />
      <None Include="Assets/Oculus/VR/NOTICE.txt" />
      <None Include="Assets/Oculus/VR/Shaders/OVRVignette.shader" />
      <None Include="Assets/Oculus/VR/Resources/Unlit Transparent Color.shader" />
